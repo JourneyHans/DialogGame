@@ -1,0 +1,11 @@
+/*.sln
+/*.csproj
+/*.unityproj
+/*.user
+/*.userprefs
+/Temp
+/TmpRes
+/Library
+/obj
+/.vs
+/.vscode
